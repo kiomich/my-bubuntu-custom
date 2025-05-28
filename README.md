@@ -6,7 +6,7 @@
 
 sudo apt install zsh -y
 
-#and add Zsh default shell
+## and add Zsh default shell
 
 chsh -s $(which zsh)
 
