@@ -32,4 +32,4 @@ replacement ZSH_THEME="robbyrussell" in ZSH_THEME="powerlevel10k/powerlevel10k"
 
 # download in https://extensions.gnome.org/
 
-Снимок экрана от 2025-05-28 23-00-54.png
+![Uploading изображение.png…]()
