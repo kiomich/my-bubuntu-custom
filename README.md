@@ -30,6 +30,6 @@ nano ~/.zshrc
 
 replacement ZSH_THEME="robbyrussell" in ZSH_THEME="powerlevel10k/powerlevel10k"
 
-#d ownload in https://extensions.gnome.org/
+# download in https://extensions.gnome.org/
 
-![Uploading изображение.png…]()
+Снимок экрана от 2025-05-28 23-00-54.png
